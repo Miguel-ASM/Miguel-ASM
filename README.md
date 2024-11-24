@@ -17,5 +17,5 @@ This are some of the technologies/languages I work with:
 | **Front** | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind css" alt="Tailwind css" width="60" height="60"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass css" alt="Sass css" width="60" height="60"/>|
 
           
-I am currently working at [Heepsy](https://www.heepsy.com/)
+Currently working as fullstack developer at [Jetpack AI](https://jetpack.ai/)
 
